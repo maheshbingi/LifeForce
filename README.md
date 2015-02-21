@@ -1,4 +1,4 @@
-# LifeForce - Image storage system
+## LifeForce - Image storage system
 
 ### Photographs capture our travel through life. LifeForce's mission is to preserve, share, remember, connect, and reflect solely through pictures.
 
@@ -9,7 +9,7 @@
 - Supports leader election between nodes for avoiding single point of failure.
 - Used protobuf messages for management between nodes and also to transfer data from client to server.
 
-## Technologies Used:
+### Technologies Used:
 Languages: Java, Python
 CorePackages: Google Protobuf, JBossNetty for communication
 Storage: PostgreSQL
