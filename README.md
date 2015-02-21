@@ -9,6 +9,7 @@
 - Supports leader election between nodes for avoiding single point of failure.
 - Used protobuf messages for management between nodes and also to transfer data from client to server.
 
+
 ### Technologies Used:
 - Languages: Java, Python
 - CorePackages: Google Protobuf, JBossNetty for communication
